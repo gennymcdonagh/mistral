@@ -21,9 +21,12 @@
 title: Mistral
 email: TODO@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  add a description here TODO
+  Our contributors:
+  Thanks to all contributors of photos and information, in particular Brian Ford for photos and early catalogs and long time Mistral owner and racer John McDonagh for photos.
+  If you have anything that you feel might help clarify the history or anything you would like to see on these pages please email me at info@mistral.net.nz
+  Thanks!
+  Ron Hazlehurst
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TODO
@@ -33,6 +36,7 @@ github_username:  TODO
 theme: minima
 plugins:
   - jekyll-feed
+# add pages here in the correct order for nav
 header_pages:
 - index.markdown
 - the-marque.markdown
