@@ -33,6 +33,15 @@ github_username:  TODO
 theme: minima
 plugins:
   - jekyll-feed
+header_pages:
+- index.markdown
+- the-marque.markdown
+- nz-history.markdown
+- construction.markdown
+- racing.markdown
+- gallery.markdown
+- links.markdown
+- contact-us.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
